@@ -1,0 +1,54 @@
+/* css style sheet week0*/
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+header{
+    text-align: center;
+    font-style: lobster;
+    background-color: moccasin;
+}
+h1 {width: 100%;
+    text-align: center;
+    text-decoration: none;
+    color: moccasin;
+    font-size: 16px;
+    font-style: cursive;
+}
+.navbar{
+    font-size: 20px;
+    color: darkgray;
+justify-content: space-around;
+    text-align: center;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+
+}
+.navbar ul {
+    color: darkgray;
+    list-style-type: none;
+    justify-content: space-around;
+    text-align: center;
+    list-style: none;
+    text-decoration: none;
+justify-content: space-around;
+display: flex;
+}
+
+a { 
+    color: darkgray;
+    text-decoration: none;
+}
+a:hover {text-decoration: underline;}
+img {width: "200px";
+    height: "200px";
+text-align: center;
+margin: 0 auto;
+display: block;
+}
+p { 
+    text-indent: 10px;
+  text-align: center;}
